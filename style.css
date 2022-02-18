@@ -39,9 +39,10 @@ body {
   border-radius: 0px 0px 10px 10px;
   margin-top: -5px;
 }
-.order-section h2 {
-  padding: 20px;
+.order-section h1 {
+  padding: 10px;
   font-weight: 900;
+  font-size: 23px;
 }
 .order-section p {
   padding: 15px 25px;
