@@ -95,9 +95,10 @@ button:hover {
   color: var(--Very-pale-blue);
   cursor: pointer;
 }
-.order-section h3 {
-  padding: 15px;
+.order-section h2 {
+  padding: 20px;
   cursor: pointer;
+  font-size: 20px;
 }
 .attribution {
   font-size: 18px;
