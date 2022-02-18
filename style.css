@@ -88,12 +88,13 @@ body {
   width: 90%;
   border: none;
   box-shadow: 1px 32px 33px 21px rgba(227, 224, 242, 0.4);
-  transition: opacity 0.5s ease-in-out;
+  transition: 0.5s ;
+  opacity: 1;
 }
 button:hover {
-  background-color: hsl(245, 75%, 52%, 95%);
-  color: var(--Very-pale-blue);
+  opacity: 0.6;
   cursor: pointer;
+
 }
 .order-section h2 {
   padding: 20px;
