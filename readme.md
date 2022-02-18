@@ -6,13 +6,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ![alt](./images/Screen%20Shot%202022-02-17%20at%202.37.01%20PM.png)
 
-### Links
+## Links
 
-- [Live Demo](https://your-solution-url.com)
+- [Live Demo](https://orde-sumarry-component.netlify.app/)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -20,11 +18,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - CSS Grid
 - Mobile-first workflow
 
-### Useful resources
+## Useful resources
 
 - [box shadow Generator](https://cssgenerator.org) - This helped me in getting the right box shadow on the button element. I am looking forward to look into it.
 
-### Author
+## Author
 
 - Frontend Mentor - [@Brymmobaggins](https://www.frontendmentor.io/profile/BrymmoBaggins)
 - Twitter - [@Brymmobaggins](https://www.twitter.com/Brymmobaggins)
