@@ -14,24 +14,30 @@ li {
   list-style: none;
 }
 body {
-  background-color: var(--Pale-blue);
   text-align: center;
   font-family: "Red Hat Display", sans-serif;
+  min-height: 100vh;
+  background: url("./images/pattern-background-desktop.svg") no-repeat top center;
+  background-size: contain;
+  background-color: #e0e8ff;
 }
 .container {
   border-radius: 10px;
   width: 300px;
+  /* display: flex; */
   margin: 50px auto;
   border: 1px solid var(--Very-pale-blue);
 }
 .container img {
   max-width: 100%;
   border-radius: 10px 10px 0 0;
+  /* margin-bottom: -1rem; */
 }
 .order-section {
   background-color: white;
   text-align: center;
   border-radius: 0px 0px 10px 10px;
+  margin-top: -5px;
 }
 .order-section h2 {
   padding: 20px;
@@ -80,11 +86,11 @@ body {
   border-radius: 6px;
   width: 90%;
   border: none;
-  box-shadow: 1px 32px 33px 21px rgba(227,224,242,0.4);
+  box-shadow: 1px 32px 33px 21px rgba(227, 224, 242, 0.4);
   transition: opacity 0.5s ease-in-out;
 }
 button:hover {
-  background-color:hsl(245, 75%, 52%,95%);
+  background-color: hsl(245, 75%, 52%, 95%);
   color: var(--Very-pale-blue);
   cursor: pointer;
 }
